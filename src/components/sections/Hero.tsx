@@ -19,7 +19,7 @@ export function Hero({ dict }: { dict: any }) {
           
           <div className="flex flex-wrap items-center gap-4 mb-8">
             <a 
-              href="https://drive.google.com/file/d/1EJv6cLRItjtLGx81A-n50BPU1mQfkIL7/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1npDKnXrh30-XoDixdTuf6ac5ePDol9yY/view?usp=sharing"
               target="_blank"
               className="flex items-center gap-2 bg-blue-600 text-white px-5 py-2.5 rounded-full font-medium hover:bg-blue-700 transition-colors"
             >

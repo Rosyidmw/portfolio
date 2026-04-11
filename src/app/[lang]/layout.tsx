@@ -13,6 +13,14 @@ const plusJakartaSans = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://www.rotibowifdev.my.id"),
+  alternates: {
+    canonical: "/",
+    languages: {
+      "en": "/en",
+      "id": "/id",
+    },
+  },
   title: {
     default: "Rosyid Mukti Wibowo | Mobile Developer Portfolio",
     template: "%s | Rosyid Mukti Wibowo",
