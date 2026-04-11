@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --font-sans: var(--font-plus-jakarta-sans);
+}
+
+@utility section-padding {
+  @apply py-16 px-6 sm:py-24 sm:px-12 md:py-32 md:px-24 max-w-6xl mx-auto w-full;
+}
+
+@layer base {
+  html, body {
+    @apply antialiased bg-white text-zinc-900 dark:bg-black dark:text-zinc-50 transition-colors duration-300;
+  }
+}

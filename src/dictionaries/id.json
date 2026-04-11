@@ -1,0 +1,89 @@
+{
+  "navbar": {
+    "experience": "Pengalaman",
+    "projects": "Proyek",
+    "skills": "Keahlian",
+    "otherProjects": "Proyek Lainnya"
+  },
+  "hero": {
+    "greeting": "Halo, saya",
+    "role": "Mobile Developer",
+    "summary": "Mahasiswa tingkat akhir Rekayasa Perangkat Lunak dan Mobile Developer dengan 9 bulan pengalaman industri. Mahir membangun dan mengoptimalkan aplikasi menggunakan teknologi lintas platform dan native. Memiliki kemampuan mengelola siklus mobile end-to-end, termasuk integrasi API kompleks, optimasi memori, penyelesaian bug kritis Android dan iOS, serta deployment aplikasi ke Google Play Store dan Apple App Store. Saat ini sedang mengembangkan platform penilaian psikometrik terintegrasi AI.",
+    "contact": "Hubungi Saya",
+    "downloadCv": "Unduh CV"
+  },
+  "experience": {
+    "title": "Pengalaman",
+    "exp1": {
+      "company": "Techarea",
+      "location": "Semarang, Indonesia (Hybrid)",
+      "roles": [
+        { "title": "Mobile Developer (Kontrak)", "period": "Jan 2026 – Mar 2026" },
+        { "title": "Mobile Developer Intern", "period": "Jun 2025 – Des 2025" }
+      ],
+      "description": "Mengelola siklus pengembangan dari awal hingga akhir untuk aplikasi pengisian daya EV. Berhasil mengintegrasikan payment gateway, mengoptimalkan memori, dan memperbaiki bug lintas platform di Flutter, Android Native, dan iOS Native. Berpengalaman meluncurkan aplikasi ke Google Play Store maupun Apple App Store."
+    },
+    "exp2": {
+      "company": "Google Developer Group on Campus TUP",
+      "location": "",
+      "roles": [
+        { "title": "C&D Staff Android Specialist", "period": "" },
+        { "title": "E&D Staff Mobile Specialist", "period": "Sep 2023 – Agu 2025" }
+      ],
+      "description": "Memimpin inisiatif bimbingan (mentoring) dan menyusun silabus untuk Mobile/Android Study Jams. Berkolaborasi secara intensif di berbagai event tech kampus demi membina komunitas developer yang kuat."
+    },
+    "exp3": {
+      "company": "Bangkit Academy dipimpin Google, GoTo, & Traveloka",
+      "location": "",
+      "roles": [
+        { "title": "Android Learning Path Cohort (Batch 2)", "period": "2024" }
+      ],
+      "description": "Lulusan program pelatihan intensif yang dipimpin langsung oleh industri, dengan fokus spesialisasi di pengembangan Android Native menggunakan Kotlin."
+    }
+  },
+  "featuredProject": {
+    "sectionTitle": "Proyek Pilihan",
+    "badge": "Proyek Tugas Akhir",
+    "description": "Membangun frontend lintas platform menggunakan Flutter dan mengembangkan backend RESTful yang tangguh. Mengintegrasikan Google Gemini API untuk menghasilkan rutinitas harian dan rekomendasi karier secara personal. Mengimplementasikan Validasi Pengetahuan Berbasis Aturan untuk memastikan keluaran AI sejalan dengan teori psikologi mapan dan mencegah halusinasi AI.",
+    "techStackTitle": "Teknologi",
+    "viewCaseStudy": "Lihat Studi Kasus",
+    "viewOtherProjects": "Lihat Proyek Lainnya \u2192",
+    "appPreview": "Pratinjau Aplikasi"
+  },
+  "skills": {
+    "title": "Keahlian & Kemampuan",
+    "categories": [
+      {
+        "title": "Pengembangan Mobile",
+        "items": ["Flutter", "Android Native (Kotlin, Java)", "Jetpack Compose", "Kotlin Multiplatform"]
+      },
+      {
+        "title": "Backend & Database",
+        "items": ["Node.js", "Express.js", "PostgreSQL"]
+      },
+      {
+        "title": "Alat & Integrasi",
+        "items": ["Google Gemini API", "Firebase Authentication", "RESTful API", "Git"]
+      }
+    ]
+  },
+  "otherProjects": {
+    "backHome": "Kembali ke Beranda",
+    "titlePre": "Proyek",
+    "titleHighlight": "Lainnya",
+    "subtitle": "Kumpulan berbagai aplikasi mobile yang pernah saya kembangkan, mulai dari perangkat berbasis AI hingga platform media sosial.",
+    "viewProject": "Lihat Projek",
+    "privateProject": "Projek Private",
+    "projects": {
+      "plantcare": "PlantCare adalah aplikasi mobile Android yang dirancang untuk membantu pengguna dalam mendeteksi dan mengelola penyakit tanaman secara efektif. Aplikasi ini merupakan bagian dari inisiatif teknologi PlantCare dalam menyediakan solusi cerdas untuk menjaga kesehatan tanaman. Repositori ini berisi kode sumber utama aplikasi yang memungkinkan pengalaman pengguna yang intuitif dan efisien di platform Android.",
+      "dicovent": "Dicovent adalah aplikasi mobile Android yang dirancang untuk memudahkan pengguna dalam melihat dan mengikuti berbagai event yang diselenggarakan oleh Dicoding. Aplikasi ini memungkinkan pengguna untuk menjelajahi daftar event yang akan datang maupun yang telah selesai dilaksanakan, lengkap dengan detail informasi setiap event.",
+      "asclepius": "Asclepius adalah aplikasi mobile Android yang dirancang untuk membantu pengguna dalam mendeteksi kanker kulit secara dini melalui teknologi kecerdasan buatan. Dengan memanfaatkan analisis gambar, aplikasi ini dapat mengidentifikasi tanda-tanda potensial kanker kulit dari foto yang diunggah pengguna.",
+      "storyapp": "StoryApp adalah aplikasi mobile Android yang memungkinkan pengguna untuk berbagi cerita melalui foto dan deskripsi, serta menambahkan titik lokasi berdasarkan GPS perangkat. Aplikasi ini mengharuskan pengguna untuk login terlebih dahulu sebelum dapat mengakses fitur utama. Pengguna dapat memposting foto dan lokasi yang akan ditampilkan dalam daftar cerita secara real-time.",
+      "tolistapps": "ToList adalah aplikasi mobile Android untuk mencatat dan mengelola tugas harian dengan mudah dan terorganisir. Pengguna diwajibkan login menggunakan akun Google untuk memastikan keamanan serta sinkronisasi data. Setelah login, pengguna dapat menambahkan tugas, melihat jadwal melalui kalender, dan mengelola data secara aman.",
+      "posedetection": "PoseDetection adalah aplikasi mobile Android yang mampu mendeteksi gerakan tangan secara real-time dengan memanfaatkan model dari TensorFlow Lite. Aplikasi ini dibangun menggunakan Jetpack Compose untuk menghadirkan antarmuka yang modern, responsif, dan intuitif."
+    }
+  },
+  "footer": {
+    "role": "Mobile Developer"
+  }
+}

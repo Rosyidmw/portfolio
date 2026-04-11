@@ -1,0 +1,89 @@
+{
+  "navbar": {
+    "experience": "Experience",
+    "projects": "Projects",
+    "skills": "Skills",
+    "otherProjects": "Other Projects"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "role": "Mobile Developer",
+    "summary": "Final-year Software Engineering student and dedicated Mobile Developer with 9 months of hands-on industry experience. Proficient in building and optimizing applications using cross-platform and native technologies. Demonstrated ability in handling the end-to-end mobile lifecycle, including complex API integrations, memory leak optimization, resolving critical bugs across Android and iOS, and application deployment on the Google Play Store and Apple App Store. Currently developing an AI-integrated psychometric assessment platform.",
+    "contact": "Contact Me",
+    "downloadCv": "Download CV"
+  },
+  "experience": {
+    "title": "Experience",
+    "exp1": {
+      "company": "Techarea",
+      "location": "Semarang, Indonesia (Hybrid)",
+      "roles": [
+        { "title": "Mobile Developer (Contract)", "period": "Jan 2026 – Mar 2026" },
+        { "title": "Mobile Developer Intern", "period": "Jun 2025 – Dec 2025" }
+      ],
+      "description": "Managed the end-to-end development lifecycle for an EV charging application. Successfully integrated payment gateways, performed memory optimization, and executed cross-platform bug fixing across Flutter, Android Native, and iOS Native. Also handled application deployment to both the Google Play Store and Apple App Store."
+    },
+    "exp2": {
+      "company": "Google Developer Group on Campus TUP",
+      "location": "",
+      "roles": [
+        { "title": "C&D Staff Android Specialist", "period": "" },
+        { "title": "E&D Staff Mobile Specialist", "period": "Sep 2023 – Aug 2025" }
+      ],
+      "description": "Led mentoring initiatives and developed the syllabus for Mobile/Android Study Jams. Collaborated extensively on various campus tech events to foster a strong developer community."
+    },
+    "exp3": {
+      "company": "Bangkit Academy led by Google, GoTo, & Traveloka",
+      "location": "",
+      "roles": [
+        { "title": "Android Learning Path Cohort (Batch 2)", "period": "2024" }
+      ],
+      "description": "Graduate of an intensive industry-led training program, with a specialized focus on Android Native development using Kotlin."
+    }
+  },
+  "featuredProject": {
+    "sectionTitle": "Featured Project",
+    "badge": "Final Year Project",
+    "description": "Built a cross-platform frontend using Flutter and engineered a robust RESTful backend. Integrated Google Gemini API to generate personalized daily routines and career recommendations. Implemented Rule-Based Knowledge Validation to ensure AI-generated outputs are consistent with established psychological theories and prevent AI hallucination.",
+    "techStackTitle": "Tech Stack",
+    "viewCaseStudy": "View Case Study",
+    "viewOtherProjects": "View Other Projects \u2192",
+    "appPreview": "App Preview"
+  },
+  "skills": {
+    "title": "Skills & Expertise",
+    "categories": [
+      {
+        "title": "Mobile Development",
+        "items": ["Flutter", "Android Native (Kotlin, Java)", "Jetpack Compose", "Kotlin Multiplatform"]
+      },
+      {
+        "title": "Backend & Database",
+        "items": ["Node.js", "Express.js", "PostgreSQL"]
+      },
+      {
+        "title": "Tools & Integration",
+        "items": ["Google Gemini API", "Firebase Authentication", "RESTful API", "Git"]
+      }
+    ]
+  },
+  "otherProjects": {
+    "backHome": "Back to Home",
+    "titlePre": "Featured",
+    "titleHighlight": "Projects",
+    "subtitle": "A showcase of various mobile applications I have developed, ranging from AI-powered tools to social media platforms.",
+    "viewProject": "View Project",
+    "privateProject": "Private Project",
+    "projects": {
+      "plantcare": "PlantCare is an Android mobile application designed to help users detect and manage plant diseases effectively. It is part of the PlantCare tech initiative to provide smart solutions for maintaining plant health. This repository contains the main source code that enables an intuitive and efficient user experience.",
+      "dicovent": "Dicovent is an Android mobile app designed to make it easier for users to view and join events hosted by Dicoding. Users can browse a list of upcoming and completed events, complete with detailed information for each.",
+      "asclepius": "Asclepius is an Android app that helps users detect skin cancer early through artificial intelligence. Utilizing image analysis, it can identify potential skin cancer signs from photos uploaded by users.",
+      "storyapp": "StoryApp is a social Android app that lets users share stories via photos and descriptions, including adding GPS locations. Users must log in first to access the main features. Exploring stories and fetching feed data is done in real-time.",
+      "tolistapps": "ToList is an Android app for recording and managing daily tasks cleanly and organized. It requires Google login for security and data sync. Users can add tasks, view a calendar schedule, and safeguard their data.",
+      "posedetection": "PoseDetection is an Android app capable of real-time hand gesture detection using TensorFlow Lite models. It is built with Jetpack Compose to deliver a modern, responsive, and intuitive interface."
+    }
+  },
+  "footer": {
+    "role": "Mobile Developer"
+  }
+}
