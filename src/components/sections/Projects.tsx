@@ -64,10 +64,14 @@ export function Projects({ dict, currentLang }: { dict: any; currentLang: string
           </div>
           
           <div className="pt-4 flex flex-col sm:flex-row items-center gap-4">
-            <button className="flex items-center justify-center w-full sm:w-auto gap-2 text-sm font-medium text-white bg-zinc-900 dark:text-zinc-900 dark:bg-white px-6 py-3 rounded-full hover:bg-zinc-800 dark:hover:bg-zinc-200 transition-colors">
+            <Link 
+              href="https://play.google.com/store/apps/details?id=com.rotibowif.growify"
+              target="_blank"
+              className="flex items-center justify-center w-full sm:w-auto gap-2 text-sm font-medium text-white bg-zinc-900 dark:text-zinc-900 dark:bg-white px-6 py-3 rounded-full hover:bg-zinc-800 dark:hover:bg-zinc-200 transition-colors"
+            >
               <ExternalLink size={16} />
               {dict.viewCaseStudy}
-            </button>
+            </Link>
             <Link href={`/${currentLang}/projects`} className="flex items-center justify-center w-full sm:w-auto gap-2 text-sm font-medium px-6 py-3 rounded-full border border-zinc-200 dark:border-zinc-800 hover:border-zinc-900 dark:hover:border-white transition-colors">
               {dict.viewOtherProjects}
             </Link>

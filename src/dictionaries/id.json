@@ -8,7 +8,7 @@
   "hero": {
     "greeting": "Halo, saya",
     "role": "Mobile Developer",
-    "summary": "Mahasiswa tingkat akhir Rekayasa Perangkat Lunak dan Mobile Developer dengan 9 bulan pengalaman industri. Mahir membangun dan mengoptimalkan aplikasi menggunakan teknologi lintas platform dan native. Memiliki kemampuan mengelola siklus mobile end-to-end, termasuk integrasi API kompleks, optimasi memori, penyelesaian bug kritis Android dan iOS, serta deployment aplikasi ke Google Play Store dan Apple App Store. Saat ini sedang mengembangkan platform penilaian psikometrik terintegrasi AI.",
+    "summary": "Mahasiswa semester akhir Rekayasa Perangkat Lunak di Telkom University kampus Purwokerto yang sedang dalam proses sidang, dengan pengalaman 9 bulan di industri sebagai Mobile Developer. Berpengalaman membangun dan men-deliver aplikasi cross-platform dan native ke production, menangani integrasi payment gateway, optimasi memori, serta deployment ke Google Play Store dan Apple App Store. Saat ini menyelesaikan tugas akhir berupa aplikasi penilaian psikometrik terintegrasi AI yang dikembangkan secara mandiri, mulai dari desain hingga deployment ke Play Store. Siap bekerja penuh waktu dan terbuka untuk relokasi.",
     "contact": "Hubungi Saya",
     "downloadCv": "Unduh CV"
   },
@@ -46,7 +46,7 @@
     "badge": "Proyek Tugas Akhir",
     "description": "Membangun frontend lintas platform menggunakan Flutter dan mengembangkan backend RESTful yang tangguh. Mengintegrasikan Google Gemini API untuk menghasilkan rutinitas harian dan rekomendasi karier secara personal. Mengimplementasikan Validasi Pengetahuan Berbasis Aturan untuk memastikan keluaran AI sejalan dengan teori psikologi mapan dan mencegah halusinasi AI.",
     "techStackTitle": "Teknologi",
-    "viewCaseStudy": "Lihat Studi Kasus",
+    "viewCaseStudy": "Buka di Play Store",
     "viewOtherProjects": "Lihat Proyek Lainnya \u2192",
     "appPreview": "Pratinjau Aplikasi"
   },

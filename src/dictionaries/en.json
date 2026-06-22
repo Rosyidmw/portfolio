@@ -8,7 +8,7 @@
   "hero": {
     "greeting": "Hi, I'm",
     "role": "Mobile Developer",
-    "summary": "Final-year Software Engineering student and dedicated Mobile Developer with 9 months of hands-on industry experience. Proficient in building and optimizing applications using cross-platform and native technologies. Demonstrated ability in handling the end-to-end mobile lifecycle, including complex API integrations, memory leak optimization, resolving critical bugs across Android and iOS, and application deployment on the Google Play Store and Apple App Store. Currently developing an AI-integrated psychometric assessment platform.",
+    "summary": "Final-year Software Engineering student at Telkom University Campus Purwokerto, currently in the undergraduate final project defense phase, with 9 months of industry experience as a Mobile Developer. Experienced in building and delivering cross-platform and native applications to production, handling payment gateway integration, memory optimization, and deployment to Google Play Store and Apple App Store. Currently completing a final-year project — an AI-integrated psychometric assessment app built independently, from design to Play Store deployment. Available for full-time roles and open to relocation.",
     "contact": "Contact Me",
     "downloadCv": "Download CV"
   },
@@ -46,7 +46,7 @@
     "badge": "Final Year Project",
     "description": "Built a cross-platform frontend using Flutter and engineered a robust RESTful backend. Integrated Google Gemini API to generate personalized daily routines and career recommendations. Implemented Rule-Based Knowledge Validation to ensure AI-generated outputs are consistent with established psychological theories and prevent AI hallucination.",
     "techStackTitle": "Tech Stack",
-    "viewCaseStudy": "View Case Study",
+    "viewCaseStudy": "Go to Play Store",
     "viewOtherProjects": "View Other Projects \u2192",
     "appPreview": "App Preview"
   },
